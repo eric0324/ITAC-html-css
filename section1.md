@@ -75,16 +75,16 @@ Chrome的開發者工具
 
 例如放入Dcard網頁上的某張圖
 ```
-<img src="//www.dcard.tw/img/dcard_index_res/dcard_city.svg">
+<img src="https://www.dcard.tw/img/dcard_index_res/dcard_city.svg">
 ```
-<img src="//www.dcard.tw/img/dcard_index_res/dcard_city.svg">
+<img src="https://www.dcard.tw/img/dcard_index_res/dcard_city.svg">
 
 這時候你可能會覺得他看起來超級大，想要設定一下他的寬高
 
 ```
-<img src="//www.dcard.tw/img/dcard_index_res/dcard_city.svg" width="300" height="300">
+<img src="https://www.dcard.tw/img/dcard_index_res/dcard_city.svg" width="300" height="300">
 ```
-<img src="//www.dcard.tw/img/dcard_index_res/dcard_city.svg" width="300" height="300">
+<img src="https://www.dcard.tw/img/dcard_index_res/dcard_city.svg" width="300" height="300">
 
 有時候tag也可能包含一些設定值或稱為**屬性(attribute)**
 
