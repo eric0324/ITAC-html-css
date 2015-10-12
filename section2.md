@@ -5,12 +5,12 @@
 
 文字編輯器種類很多，常見的包含有：
 * Windows 的記事本
-* Vim & Vi
+* [Vim](http://www.vim.org) & [Vi](http://thomer.com/vi/vi.html)
 * [Sublime Text 3](http://www.sublimetext.com/3)
 * [Atom](https://atom.io)
 * [Brackets](http://brackets.io)
 
-目前社團成員大部分是使用 Sublime Text  3 和 Atom 為主，。下面簡單介紹這兩款編輯器的 plugin 安裝方法。
+目前社團成員大部分是使用 Sublime Text  3 和 Atom 為主。下面簡單介紹這兩款編輯器的 plugin 安裝方法。
 
 #### Sublime Text 3
 
@@ -33,11 +33,11 @@
 
 ### Atom
 
-Atom在進入官網後就可以看到一個大大的Download，直些下載下來安裝即可。
+Atom在進入官網後就可以看到一個大大的 Download ，直些下載下來安裝即可。
 
 Atom的操作相對 Sublime 親和許多，按下<kbd>cmd</kbd> + <kbd>,</kbd> 可以打開設定頁面，點一下`Install`，在搜尋框輸入 Package 名稱進行搜尋，對搜尋結果點一下 `Install` 就可以安裝囉。
 
-同樣的必裝Plugin可以參考[前一篇](section1.md)推薦的必裝清單。
+同樣的必裝 Plugin 可以參考[前一篇](section1.md)推薦的必裝清單。
 
 特別注意建議不要安裝 Facebook 推出的 nuclide 系列套件，目前該套件還不穩，容易使 Atom crash
 
@@ -61,9 +61,9 @@ Atom的操作相對 Sublime 親和許多，按下<kbd>cmd</kbd> + <kbd>,</kbd> �
 ![web][4]
 打開它後你會發現一片空白，除了視窗上的標題。
 
-首先我們可以修改標題，將`<title>網頁標題</title>`改成你自己想要的標題，例如`<title>Hi World~</title>`
+首先我們可以修改標題，將 `<title>網頁標題</title>`  改成你自己想要的標題，例如 `<title>Hi World~</title>`。
 
-試著加一點東西吧。例如插入圖片`<img />`、增加清單`<ul></ul>`
+試著加一點東西吧，例如插入圖片`<img />`、增加清單`<ul></ul>`。
 
 ![web][5]
 
@@ -75,10 +75,10 @@ Atom的操作相對 Sublime 親和許多，按下<kbd>cmd</kbd> + <kbd>,</kbd> �
 
 網頁看起來有點單調怎麼辦？通常網頁設計師會幫網頁套上樣式表 (CSS) ，藉由設定樣式表來美化網頁。
 
-但我們還不會寫CSS呀，該怎麼辦呢？別擔心，網路上很多大神都幫我們寫好了一些簡單的套件讓我們快速使用。
-像是 [bootstrap](http://getbootstrap.com) ，以下簡單介紹他的使用方法吧。
+但我們還不會寫 CSS 呀，該怎麼辦呢？別擔心，網路上很多大神都幫我們寫好了一些簡單的套件讓我們快速使用。像是 [bootstrap](http://getbootstrap.com) ，以下簡單介紹他的使用方法吧。
 
 打開官網後點一下 **Getting started** ，往下捲可以看到 Bootstrap CDN
+
 ![bootstrap][6]
 
 將程式碼copy下來貼到 網頁中的`<head></head>`當中吧
