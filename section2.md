@@ -92,7 +92,7 @@ Atom的操作相對 Sublime 親和許多，按下<kbd>cmd</kbd> + <kbd>,</kbd> �
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 ```
-bootstrap裡面有非常多現成的樣式可以使用，點一下官網的 CSS 就可以看到有很多能夠使用的樣式
+Bootstrap 裡面有非常多現成的樣式可以使用，點一下官網的 CSS 就可以看到有很多能夠使用的樣式
 
 例如，把圖片修為圓形：
 
